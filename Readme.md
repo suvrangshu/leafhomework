@@ -27,3 +27,13 @@ Please click on each options to view the different earthquakes maps areas:
 4. 
 ![](images/clip6.png)
 
+5.
+![](images/clip7.png)
+
+6.
+![](images/clip8.png)
+
+7.
+![](images/clip9.png)
+
+
